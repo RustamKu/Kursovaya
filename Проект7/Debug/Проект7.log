@@ -1,0 +1,6 @@
+﻿  food.cpp
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.cpp(32): warning C4566: символ, представленный универсальным именем символа "\u2639", невозможно представить в текущей кодовой странице (1251)
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.cpp(71): warning C4566: символ, представленный универсальным именем символа "\u25A0", невозможно представить в текущей кодовой странице (1251)
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.cpp(94): warning C4566: символ, представленный универсальным именем символа "\u25A0", невозможно представить в текущей кодовой странице (1251)
+  Проект7.vcxproj -> c:\users\11_09\documents\visual studio 2017\Projects\Проект7\Debug\Проект7.exe
+  Проект7.vcxproj -> c:\users\11_09\documents\visual studio 2017\Projects\Проект7\Debug\Проект7.pdb (Partial PDB)

@@ -1,0 +1,87 @@
+﻿  snake.cpp
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\snake.cpp(116): error C2027: использование неопределенного типа "feed"
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\snake.h(8): note:  см. объявление "feed"
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\snake.cpp(116): error C2228: выражение слева от ".x" должно представлять класс, структуру или объединение
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\snake.cpp(116): error C2228: выражение слева от ".y" должно представлять класс, структуру или объединение
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\snake.cpp(124): error C2027: использование неопределенного типа "feed"
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\snake.h(8): note:  см. объявление "feed"
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\snake.cpp(124): error C2228: выражение слева от ".big_x" должно представлять класс, структуру или объединение
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\snake.cpp(124): error C2228: выражение слева от ".big_y" должно представлять класс, структуру или объединение
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\snake.cpp(126): error C2027: использование неопределенного типа "feed"
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\snake.h(8): note:  см. объявление "feed"
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\snake.cpp(126): error C2228: выражение слева от ".big_flag" должно представлять класс, структуру или объединение
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\snake.cpp(127): error C2027: использование неопределенного типа "feed"
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\snake.h(8): note:  см. объявление "feed"
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\snake.cpp(127): error C2228: выражение слева от ".big_x" должно представлять класс, структуру или объединение
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\snake.cpp(128): error C2027: использование неопределенного типа "feed"
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\snake.h(8): note:  см. объявление "feed"
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\snake.cpp(128): error C2228: выражение слева от ".big_y" должно представлять класс, структуру или объединение
+  Создание кода...
+  Компиляция...
+  food.cpp
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.cpp(18): error C2027: использование неопределенного типа "Snake"
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.h(5): note:  см. объявление "Snake"
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.cpp(18): error C2228: выражение слева от ".snake" должно представлять класс, структуру или объединение
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.cpp(20): error C2065: point: необъявленный идентификатор
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.cpp(20): error C2228: выражение слева от ".GetX" должно представлять класс, структуру или объединение
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.cpp(20): note: тип: unknown-type
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.cpp(20): error C2228: выражение слева от ".GetY" должно представлять класс, структуру или объединение
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.cpp(20): note: тип: unknown-type
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.cpp(56): error C2027: использование неопределенного типа "Snake"
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.h(5): note:  см. объявление "Snake"
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.cpp(56): error C2228: выражение слева от ".snake" должно представлять класс, структуру или объединение
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.cpp(58): error C2065: point: необъявленный идентификатор
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.cpp(58): error C2228: выражение слева от ".GetX" должно представлять класс, структуру или объединение
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.cpp(58): note: тип: unknown-type
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.cpp(58): error C2228: выражение слева от ".GetY" должно представлять класс, структуру или объединение
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.cpp(58): note: тип: unknown-type
+  Создание кода...
+  Компиляция...
+  map.cpp
+  Создание кода...
+  Компиляция...
+  point.cpp
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\point.cpp(11): error C2039: PrintCircular: не является членом "Point"
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\point.h(5): note:  см. объявление "Point"
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\point.cpp(13): error C2065: x: необъявленный идентификатор
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\point.cpp(13): error C2065: y: необъявленный идентификатор
+  Создание кода...
+  Компиляция...
+  startinterface.cpp
+  Создание кода...
+  Компиляция...
+  upravleniye.cpp
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(222): error C2027: использование неопределенного типа "Snake"
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.h(5): note:  см. объявление "Snake"
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(225): error C2027: использование неопределенного типа "Snake"
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.h(5): note:  см. объявление "Snake"
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(225): error C2227: выражение слева от "->InitSnake" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(230): error C2027: использование неопределенного типа "Snake"
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.h(5): note:  см. объявление "Snake"
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(230): error C2227: выражение слева от "->OverEdge" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(230): error C2227: выражение слева от "->HitItself" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(233): error C2027: использование неопределенного типа "Snake"
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.h(5): note:  см. объявление "Snake"
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(233): error C2227: выражение слева от "->ChangeDirection" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(242): warning C4150: удаление указателя на неполный тип "Snake"; деструктор не вызван
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.h(5): note:  см. объявление "Snake"
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(247): warning C4150: удаление указателя на неполный тип "Snake"; деструктор не вызван
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.h(5): note:  см. объявление "Snake"
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(256): error C2027: использование неопределенного типа "Snake"
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.h(5): note:  см. объявление "Snake"
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(256): error C2227: выражение слева от "->GetFood" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(258): error C2027: использование неопределенного типа "Snake"
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.h(5): note:  см. объявление "Snake"
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(258): error C2227: выражение слева от "->Move" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(265): error C2027: использование неопределенного типа "Snake"
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.h(5): note:  см. объявление "Snake"
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(265): error C2227: выражение слева от "->NormalMove" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(268): error C2027: использование неопределенного типа "Snake"
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.h(5): note:  см. объявление "Snake"
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(268): error C2227: выражение слева от "->GetBigFood" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(270): error C2027: использование неопределенного типа "Snake"
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.h(5): note:  см. объявление "Snake"
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(270): error C2227: выражение слева от "->Move" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\11_09\downloads\greedysnake-master\greedysnake-master\upravleniye.cpp(284): warning C4150: удаление указателя на неполный тип "Snake"; деструктор не вызван
+  c:\users\11_09\downloads\greedysnake-master\greedysnake-master\food.h(5): note:  см. объявление "Snake"
+  Создание кода...
